@@ -1,1 +1,1 @@
-$("#topNavigation").load("./../navigation/topNavigation.html");
+$("#topNavigation").load("navigation/topNavigation.html");
